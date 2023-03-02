@@ -1,0 +1,286 @@
+{
+    "00777605-5828-4d8a-8b7e-d45d8b28f10f": {
+        "assetTypeGuid": "01c2c136-57b4-4a69-b2af-3c2ea94c3f49",
+        "path": "Project.nproject",
+        "name": "Beginner Onboard",
+        "thumbnail": "04e6ecd8-d616-4836-b9cf-3bcf030775e4",
+        "tags": [
+            "f5777f96-a43c-4ebd-872a-1eeda5719aaf"
+        ]
+    },
+    "1668ba45-a7f1-2868-8967-b0dbe63705b4": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Characters/Jimmy/Material Instances/Main.mtli.nasset",
+        "dependencies": [
+            "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
+        ]
+    },
+    "194661d1-0651-499c-afc1-5dc0de75863b": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Characters/Jimmy/Onboard Player.scene.nasset",
+        "thumbnail": "e95160b5-9f01-a360-4319-88759e54333f"
+    },
+    "1d14499e-e1fb-73f4-6abf-79d1da499674": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Characters/Jimmy/Material Instances/Eyes.mtli.nasset",
+        "dependencies": [
+            "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
+        ]
+    },
+    "29276659-62b1-952c-b34f-7b9c1b9b611a": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Characters/Jimmy/Material Instances/Black.mtli.nasset",
+        "dependencies": [
+            "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
+        ]
+    },
+    "3677f163-90af-b1b3-d476-d248f39eb7ef": {
+        "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
+        "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+        "path": "Assets/Characters/Jimmy/SK_Jimmy.scene.nasset/SK Jimmy.mesh.nasset/SK Jimmy White.meshskin.nasset",
+        "dependencies": [
+            "8851a331-a298-8c53-c1ca-72c1bbd7ddf4",
+            "ac1fe007-b1a0-dec8-2e12-19e49c450e75",
+            "6d3934e5-dabb-457b-e7e8-419ba6925ebe"
+        ]
+    },
+    "396cb842-9a68-d8ac-9746-0a7d4d641b46": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Characters/Jimmy/Material Instances/Secondary.mtli.nasset",
+        "dependencies": [
+            "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
+        ]
+    },
+    "3b5a3b29-a814-9cac-093a-311515f691d7": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Characters/Jimmy/SK_Jimmy.scene.nasset/SK_Jimmy.scene.nasset",
+        "dependencies": [
+            "cc9d547d-62d5-97e7-35a3-87305260a05b"
+        ]
+    },
+    "45dbb6c9-fa44-f514-db91-d99230c46326": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Characters/Jimmy/SK_Jimmy.scene.nasset/SK Jimmy.mesh.nasset/SK Jimmy Main.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "1668ba45-a7f1-2868-8967-b0dbe63705b4",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "46d1c567-68e6-1528-3cc4-5dbe5422fe32": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Characters/Jimmy/SK_Jimmy.scene.nasset/SK Jimmy.mesh.nasset/SK Jimmy Secondary.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "396cb842-9a68-d8ac-9746-0a7d4d641b46",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "59aa6dc7-64dc-4242-9afb-412812a96a9d": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Jimmy/Jimmy_Jump_End.anim.nasset",
+        "dependencies": [
+            "ac1fe007-b1a0-dec8-2e12-19e49c450e75"
+        ]
+    },
+    "632eca15-46c7-efc7-9f5b-edb701eee17e": {
+        "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
+        "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+        "path": "Assets/Characters/Jimmy/SK_Jimmy.scene.nasset/SK Jimmy.mesh.nasset/SK Jimmy Main.meshskin.nasset",
+        "dependencies": [
+            "45dbb6c9-fa44-f514-db91-d99230c46326",
+            "ac1fe007-b1a0-dec8-2e12-19e49c450e75",
+            "1668ba45-a7f1-2868-8967-b0dbe63705b4"
+        ]
+    },
+    "6a94cb95-d8af-5c6b-bd32-a38fb22e10a1": {
+        "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
+        "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+        "path": "Assets/Characters/Jimmy/SK_Jimmy.scene.nasset/SK Jimmy.mesh.nasset/SK Jimmy Black.meshskin.nasset",
+        "dependencies": [
+            "d0a238a8-320c-fca9-b361-dbbd4139fda2",
+            "ac1fe007-b1a0-dec8-2e12-19e49c450e75",
+            "29276659-62b1-952c-b34f-7b9c1b9b611a"
+        ]
+    },
+    "6c1518b9-eebb-4090-b4d3-6654aa36351d": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Jimmy/Jimmy_Jump_Loop.anim.nasset",
+        "dependencies": [
+            "ac1fe007-b1a0-dec8-2e12-19e49c450e75"
+        ]
+    },
+    "6d3934e5-dabb-457b-e7e8-419ba6925ebe": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Characters/Jimmy/Material Instances/White.mtli.nasset",
+        "dependencies": [
+            "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
+        ]
+    },
+    "73295854-4799-4781-a699-f40dc3e606e0": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Jimmy/Jimmy_Jump_Start.anim.nasset",
+        "dependencies": [
+            "ac1fe007-b1a0-dec8-2e12-19e49c450e75"
+        ]
+    },
+    "73f0f69d-cb24-d3f9-4093-c1754614c08a": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Characters/Jimmy/Material Instances/Skin.mtli.nasset",
+        "dependencies": [
+            "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
+        ]
+    },
+    "80d29cbc-f1bd-afe6-5a20-544e53ac7436": {
+        "assetTypeGuid": "77b22fc4-d109-4dd3-a922-38388879fc90",
+        "path": "Assets.nassetdb"
+    },
+    "8851a331-a298-8c53-c1ca-72c1bbd7ddf4": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Characters/Jimmy/SK_Jimmy.scene.nasset/SK Jimmy.mesh.nasset/SK Jimmy White.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "6d3934e5-dabb-457b-e7e8-419ba6925ebe",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "8efa4bd2-6531-c6bf-c321-fd8009774dfb": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Characters/Jimmy/SK_Jimmy.scene.nasset/SK Jimmy.mesh.nasset/SK Jimmy Skin.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "73f0f69d-cb24-d3f9-4093-c1754614c08a",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "9652be50-96c8-5a26-d2d4-d50174a52c31": {
+        "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
+        "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+        "path": "Assets/Characters/Jimmy/SK_Jimmy.scene.nasset/SK Jimmy.mesh.nasset/SK Jimmy Skin.meshskin.nasset",
+        "dependencies": [
+            "8efa4bd2-6531-c6bf-c321-fd8009774dfb",
+            "ac1fe007-b1a0-dec8-2e12-19e49c450e75",
+            "73f0f69d-cb24-d3f9-4093-c1754614c08a"
+        ]
+    },
+    "ac1fe007-b1a0-dec8-2e12-19e49c450e75": {
+        "assetTypeGuid": "d36708f1-71f9-4334-8146-62c743c39970",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Jimmy/SK_Jimmy.scene.nasset/SK Jimmy.mesh.nasset/Skeletons/RootNode.skel.nasset"
+    },
+    "b4b4696f-64ee-f458-def7-7fe99ef057ff": {
+        "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
+        "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+        "path": "Assets/Characters/Jimmy/SK_Jimmy.scene.nasset/SK Jimmy.mesh.nasset/SK Jimmy Eyes.meshskin.nasset",
+        "dependencies": [
+            "f6ee57f2-474d-a31c-d7e9-7cf3bb3491be",
+            "ac1fe007-b1a0-dec8-2e12-19e49c450e75",
+            "1d14499e-e1fb-73f4-6abf-79d1da499674"
+        ]
+    },
+    "bc33b2e9-53d3-0829-a413-531c85fb3e17": {
+        "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
+        "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+        "path": "Assets/Characters/Jimmy/SK_Jimmy.scene.nasset/SK Jimmy.mesh.nasset/SK Jimmy Secondary.meshskin.nasset",
+        "dependencies": [
+            "46d1c567-68e6-1528-3cc4-5dbe5422fe32",
+            "ac1fe007-b1a0-dec8-2e12-19e49c450e75",
+            "396cb842-9a68-d8ac-9746-0a7d4d641b46"
+        ]
+    },
+    "ca7ca704-ffb7-4598-9cde-818de96486c2": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Jimmy/Jimmy_Walk.anim.nasset",
+        "dependencies": [
+            "ac1fe007-b1a0-dec8-2e12-19e49c450e75"
+        ]
+    },
+    "cc9d547d-62d5-97e7-35a3-87305260a05b": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Characters/Jimmy/SK_Jimmy.scene.nasset/SK Jimmy.mesh.nasset/SK Jimmy.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "1668ba45-a7f1-2868-8967-b0dbe63705b4",
+            "45dbb6c9-fa44-f514-db91-d99230c46326",
+            "632eca15-46c7-efc7-9f5b-edb701eee17e",
+            "73f0f69d-cb24-d3f9-4093-c1754614c08a",
+            "8efa4bd2-6531-c6bf-c321-fd8009774dfb",
+            "9652be50-96c8-5a26-d2d4-d50174a52c31",
+            "396cb842-9a68-d8ac-9746-0a7d4d641b46",
+            "46d1c567-68e6-1528-3cc4-5dbe5422fe32",
+            "bc33b2e9-53d3-0829-a413-531c85fb3e17",
+            "1d14499e-e1fb-73f4-6abf-79d1da499674",
+            "f6ee57f2-474d-a31c-d7e9-7cf3bb3491be",
+            "b4b4696f-64ee-f458-def7-7fe99ef057ff",
+            "6d3934e5-dabb-457b-e7e8-419ba6925ebe",
+            "8851a331-a298-8c53-c1ca-72c1bbd7ddf4",
+            "3677f163-90af-b1b3-d476-d248f39eb7ef",
+            "29276659-62b1-952c-b34f-7b9c1b9b611a",
+            "d0a238a8-320c-fca9-b361-dbbd4139fda2",
+            "6a94cb95-d8af-5c6b-bd32-a38fb22e10a1",
+            "ac1fe007-b1a0-dec8-2e12-19e49c450e75"
+        ]
+    },
+    "d0a238a8-320c-fca9-b361-dbbd4139fda2": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Characters/Jimmy/SK_Jimmy.scene.nasset/SK Jimmy.mesh.nasset/SK Jimmy Black.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "29276659-62b1-952c-b34f-7b9c1b9b611a",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "f290dd09-2e89-4f2b-8f61-7703045e81de": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Jimmy/Jimmy_Run.anim.nasset",
+        "dependencies": [
+            "ac1fe007-b1a0-dec8-2e12-19e49c450e75"
+        ]
+    },
+    "f4d053d6-6296-441e-8c54-2fd8102cef09": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Jimmy/Jimmy_Idle.anim.nasset",
+        "dependencies": [
+            "ac1fe007-b1a0-dec8-2e12-19e49c450e75"
+        ]
+    },
+    "f6ee57f2-474d-a31c-d7e9-7cf3bb3491be": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Characters/Jimmy/SK_Jimmy.scene.nasset/SK Jimmy.mesh.nasset/SK Jimmy Eyes.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "1d14499e-e1fb-73f4-6abf-79d1da499674",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "guid": "80d29cbc-f1bd-afe6-5a20-544e53ac7436"
+}
