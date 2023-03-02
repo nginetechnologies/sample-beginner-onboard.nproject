@@ -2731,6 +2731,10 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "dd83fcfe-c0d2-df6c-5952-5205f37077e9": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Thumbnail/Onboard_Thumb.tex.nasset"
+    },
     "dde1219a-9d29-ec69-47b3-81ce3ac5231a": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Source/Material Instances/Dirt.mtli.nasset",
