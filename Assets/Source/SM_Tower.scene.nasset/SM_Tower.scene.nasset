@@ -1,0 +1,41 @@
+{
+    "guid": "17f0df2b-6f5f-ab86-d8e2-13360e29d1c3",
+    "source": "../SM_Tower.fbx",
+    "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+    "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+    "instanceGuid": "484d97a2-e390-2938-762c-aea81cf1b970",
+    "data_components": [
+        {
+            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+            "name": "Tower"
+        }
+    ],
+    "children": [
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "c81a0454-7200-719d-a9b0-6ccb3d9845a1",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Tower"
+                }
+            ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "rotation": [
+                    0.0,
+                    0.0,
+                    -89.9999
+                ]
+            },
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "59529397-d254-9b62-57e8-53c3c1cdba6d"
+            }
+        }
+    ],
+    "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+        "scene": "17f0df2b-6f5f-ab86-d8e2-13360e29d1c3"
+    },
+    "dependencies": [
+        "59529397-d254-9b62-57e8-53c3c1cdba6d"
+    ]
+}

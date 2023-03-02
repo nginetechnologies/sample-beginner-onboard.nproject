@@ -1,0 +1,41 @@
+{
+    "guid": "135c31f7-8226-6a71-901e-1b0f845854ca",
+    "source": "../SM_Tower_Door.fbx",
+    "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+    "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+    "instanceGuid": "d6a93bef-43a1-60cf-efdf-5d1aa700ce11",
+    "data_components": [
+        {
+            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+            "name": "Tower Door"
+        }
+    ],
+    "children": [
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "bf86d4e3-16e8-5c60-db97-d4f19994733e",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Tower Door"
+                }
+            ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "rotation": [
+                    0.0,
+                    0.0,
+                    -89.9999
+                ]
+            },
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "32bfd5e1-7368-c511-6ba4-2f6ee927dd8e"
+            }
+        }
+    ],
+    "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+        "scene": "135c31f7-8226-6a71-901e-1b0f845854ca"
+    },
+    "dependencies": [
+        "32bfd5e1-7368-c511-6ba4-2f6ee927dd8e"
+    ]
+}

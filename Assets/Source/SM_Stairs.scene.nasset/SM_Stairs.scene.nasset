@@ -1,0 +1,34 @@
+{
+    "guid": "45ee1b29-5f8a-05e3-9cd7-da1ec1f5a37d",
+    "source": "../SM_Stairs.fbx",
+    "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+    "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+    "instanceGuid": "821bdaa0-da3e-fe51-5955-acffb711e090",
+    "data_components": [
+        {
+            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+            "name": "Stairs"
+        }
+    ],
+    "children": [
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "c36fdcd4-c593-7d2b-9d44-4f87c789e9c9",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Stairs"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "6a8c424d-9295-38c5-3a90-4ab35343661b"
+            }
+        }
+    ],
+    "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+        "scene": "45ee1b29-5f8a-05e3-9cd7-da1ec1f5a37d"
+    },
+    "dependencies": [
+        "6a8c424d-9295-38c5-3a90-4ab35343661b"
+    ]
+}
