@@ -2284,6 +2284,10 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "b15c4898-a3d2-a925-4f98-d75d0bdc8051": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Cubemaps/Onboard_EnviroDiffuse.tex.nasset"
+    },
     "b19d9c96-709d-10b4-3e20-5244e31262e4": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -2410,6 +2414,10 @@
         "dependencies": [
             "298c27b7-ff35-c60f-fca7-dceb1e132556"
         ]
+    },
+    "ba599ec1-55eb-0c54-2c84-fe3ac20b1a8a": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Cubemaps/Onboard_Enviro.tex.nasset"
     },
     "ba874554-00c1-9eaa-aab1-d80e373503e8": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -3018,6 +3026,10 @@
         "dependencies": [
             "ac1fe007-b1a0-dec8-2e12-19e49c450e75"
         ]
+    },
+    "f2d4fcc8-91e5-13db-f083-92a86d87cc9f": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Cubemaps/Onboard_EnviroSpecular.tex.nasset"
     },
     "f4d053d6-6296-441e-8c54-2fd8102cef09": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",

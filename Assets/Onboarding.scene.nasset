@@ -8,6 +8,9 @@
     },
     "data_components": [
         {
+            "typeGuid": "64215a37-64a6-45bd-ba87-10abe74da0f9"
+        },
+        {
             "typeGuid": "05a7011d-a220-49f2-98df-81b32be3c0fd",
             "camera_settings": {
                 "typeGuid": "9ae0e145-86b4-4e47-afda-697bbd008922",
@@ -19,14 +22,14 @@
             },
             "transform": {
                 "position": [
-                    -6.5096,
-                    -11.9104,
-                    9.9441
+                    -3.3777,
+                    -14.0847,
+                    8.6339
                 ],
                 "rotation": [
-                    -24.4265,
+                    -26.0175,
                     -0.0,
-                    -50.7462
+                    -42.9276
                 ]
             },
             "grid_settings": {
@@ -39,9 +42,6 @@
                     }
                 }
             }
-        },
-        {
-            "typeGuid": "64215a37-64a6-45bd-ba87-10abe74da0f9"
         }
     ],
     "children": [
@@ -57,17 +57,17 @@
                 "rotation": [
                     0.0,
                     -0.0,
-                    89.9998
+                    89.9993
                 ]
             },
             "data_components": [
                 {
-                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "Ground 10x10"
-                },
-                {
                     "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
                     "templateInstanceGuid": "6c4df135-585f-edc4-1dce-38953d10c68f"
+                },
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Ground 10x10"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
@@ -86,17 +86,17 @@
                 "rotation": [
                     0.0,
                     -0.0,
-                    89.9998
+                    89.9993
                 ]
             },
             "data_components": [
                 {
-                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "Ground 10x5"
-                },
-                {
                     "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
                     "templateInstanceGuid": "da1429e6-5ecf-b864-64b1-45d243520871"
+                },
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Ground 10x5"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
@@ -115,17 +115,17 @@
                 "rotation": [
                     0.0,
                     -0.0,
-                    89.9998
+                    89.9993
                 ]
             },
             "data_components": [
                 {
-                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "Ground 10x10.001"
-                },
-                {
                     "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
                     "templateInstanceGuid": "083064b0-b333-826b-0417-6acdd0dab7e1"
+                },
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Ground 10x10.001"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
@@ -144,12 +144,12 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "Arrow Side"
-                },
-                {
                     "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
                     "templateInstanceGuid": "aeaa5544-eb30-2009-7fe7-fbd88fd98dae"
+                },
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Arrow Side"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
@@ -168,12 +168,12 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "Bridge Small"
-                },
-                {
                     "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
                     "templateInstanceGuid": "6658f1a4-416c-e349-9e25-1a7fff6c5064"
+                },
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Bridge Small"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
@@ -192,7 +192,7 @@
                 "rotation": [
                     0.0,
                     0.0,
-                    -89.9998
+                    -89.9993
                 ],
                 "scale": [
                     2.0
@@ -200,12 +200,12 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "Goal Flag"
-                },
-                {
                     "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
                     "templateInstanceGuid": "fcbd747a-c0e0-284d-27c1-b7b386babd1a"
+                },
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Goal Flag"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
@@ -224,12 +224,12 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "Plant Large"
-                },
-                {
                     "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
                     "templateInstanceGuid": "aff2710b-bdf8-c5a9-bcd6-f902481aeaa6"
+                },
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Plant Large"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
@@ -248,12 +248,12 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "Plant Small"
-                },
-                {
                     "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
                     "templateInstanceGuid": "9b96908d-d235-ae14-973f-85b15c05c312"
+                },
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Plant Small"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
@@ -265,19 +265,19 @@
             "instanceGuid": "11fef1dd-fad3-a041-ef0f-8f2b91799506",
             "de8f8da2-d37f-41da-bc6e-580435fe605f": {
                 "position": [
-                    1.4259,
+                    1.4256,
                     3.1191,
                     1.0
                 ]
             },
             "data_components": [
                 {
-                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "Tree"
-                },
-                {
                     "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
                     "templateInstanceGuid": "11fef1dd-fad3-a041-ef0f-8f2b91799506"
+                },
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Tree"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
@@ -289,9 +289,14 @@
             "instanceGuid": "d3f8c605-fcfb-7875-d708-d957a810e116",
             "de8f8da2-d37f-41da-bc6e-580435fe605f": {
                 "position": [
+                    4.7333,
+                    -1.2867,
+                    1.6497
+                ],
+                "rotation": [
                     0.0,
-                    0.5,
-                    1.6499
+                    -0.0,
+                    90.0
                 ]
             },
             "88a0cdbb-2826-46e3-b372-2a5154eacb61": {
@@ -299,12 +304,12 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "Spawn Point"
-                },
-                {
                     "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
                     "templateInstanceGuid": "d3f8c605-fcfb-7875-d708-d957a810e116"
+                },
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Spawn Point"
                 },
                 {
                     "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905",
@@ -348,12 +353,12 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "Directional Light"
-                },
-                {
                     "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
                     "templateInstanceGuid": "59ee1ac2-c4c3-18c2-32b4-527f2c2e8032"
+                },
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Directional Light"
                 },
                 {
                     "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905",
@@ -368,7 +373,7 @@
             "instanceGuid": "18346473-407b-41da-9738-296707036b30",
             "de8f8da2-d37f-41da-bc6e-580435fe605f": {
                 "rotation": [
-                    -89.9998,
+                    -89.9993,
                     0.0,
                     0.0
                 ]
@@ -378,12 +383,12 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "Directional Gravity"
-                },
-                {
                     "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
                     "templateInstanceGuid": "18346473-407b-41da-9738-296707036b30"
+                },
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Directional Gravity"
                 }
             ]
         },
@@ -410,17 +415,17 @@
             },
             "7be15c72-f784-4f5e-b895-7cc2fbef6355": {
                 "radius": 40.0,
-                "irradiance": "d9fa4ff1-8968-23db-8e67-77642cb4d88e",
-                "prefiltered": "3ab745aa-6a7d-608d-321a-60e00705f78f"
+                "irradiance": "b15c4898-a3d2-a925-4f98-d75d0bdc8051",
+                "prefiltered": "f2d4fcc8-91e5-13db-f083-92a86d87cc9f"
             },
             "data_components": [
                 {
-                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "Environment Light"
-                },
-                {
                     "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
                     "templateInstanceGuid": "59ee1ac2-c4c3-18c2-32b4-527f2c2e8032"
+                },
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Environment Light"
                 },
                 {
                     "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905",
@@ -455,12 +460,12 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "Skysphere"
-                },
-                {
                     "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
                     "templateInstanceGuid": "f695b7d2-b906-4085-5b54-71c0ed7599b6"
+                },
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Skysphere"
                 },
                 {
                     "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905",
