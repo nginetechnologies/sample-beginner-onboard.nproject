@@ -1,0 +1,40 @@
+{
+    "guid": "ad39e89d-6ee5-a10b-2d34-d81e433180f1",
+    "assetTypeGuid": "d36708f1-71f9-4334-8146-62c743c39970",
+    "typeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+    "instanceGuid": "78f024bf-03f3-6081-8fb1-bf443a7b476c",
+    "data_components": [],
+    "f6140603-c29e-4bf9-946d-498dba6709ff": {
+        "skeleton": "ad39e89d-6ee5-a10b-2d34-d81e433180f1"
+    },
+    "joints": {
+        "15de5653-8d9e-5397-67a4-e509d1b7d3f7": {
+            "name": "Root",
+            "index": 2
+        },
+        "4af0b49f-a190-2ceb-5fb5-de30ae69b6c7": {
+            "name": "JNT_Flag_03",
+            "index": 5
+        },
+        "62136212-d147-3fd3-2c75-dd7d24631e20": {
+            "name": "RootNode",
+            "index": 0
+        },
+        "6a308297-dc6b-5656-98e9-74bed7b76764": {
+            "name": "Goal_Flag",
+            "index": 1
+        },
+        "826da74f-09eb-7514-2829-439c1d2252fa": {
+            "name": "JNT_Flag_02",
+            "index": 4
+        },
+        "8aba91e6-d8c6-6221-e7ad-32e2938a63e7": {
+            "name": "JNT_Flag_End",
+            "index": 6
+        },
+        "8fac44c3-d1b9-70a8-9237-3e6d659b9f38": {
+            "name": "JNT_Flag_01",
+            "index": 3
+        }
+    }
+}

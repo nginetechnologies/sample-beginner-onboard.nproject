@@ -1,0 +1,17 @@
+{
+    "guid": "7608f4d2-7329-700d-81fd-a73105e64d99",
+    "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+    "dependencies": [
+        "ad39e89d-6ee5-a10b-2d34-d81e433180f1"
+    ],
+    "f6140603-c29e-4bf9-946d-498dba6709ff": {
+        "skeleton": "ad39e89d-6ee5-a10b-2d34-d81e433180f1"
+    },
+    "instanceGuid": "9d8b0a3b-b3c7-24f3-a416-29ef3750da49",
+    "data_components": [
+        {
+            "typeGuid": "ada8de9b-70b3-4e23-8cc8-60febac91165",
+            "animation": "7608f4d2-7329-700d-81fd-a73105e64d99"
+        }
+    ]
+}

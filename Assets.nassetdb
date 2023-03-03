@@ -860,6 +860,18 @@
             "35332a23-dd9e-ce40-4f41-c40d37fc076f"
         ]
     },
+    "3eba16dd-cc26-a78a-e0cb-038f7442a701": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/Goal_Flag.scene.nasset/Goal Flag.mesh.nasset/Goal Flag Metal.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "8074f9a7-40ec-c674-aeda-0e4b700d1b90",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
     "3ee86c76-6f30-0aa4-f37a-adcbdfde2aa8": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
@@ -982,6 +994,14 @@
             "46bdf385-b3bb-a734-8781-737c5b107ae0",
             "675f2ab4-d35d-0307-e592-3efa05f7d131",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "4c789abb-7362-86c8-1ed0-5d75556c0c9f": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/Goal_Flag.scene.nasset/Goal_Flag.scene.nasset",
+        "dependencies": [
+            "dbf29712-18aa-09f5-ccb8-93b83a6cc26e"
         ]
     },
     "4cc4f6f3-2d7c-7d9e-64c7-eab702e3595a": {
@@ -1538,6 +1558,18 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "70aa293d-7508-4117-3889-c0e573d99ef2": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/Goal_Flag.scene.nasset/Goal Flag.mesh.nasset/Goal Flag Flag.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "96c90e7e-1110-bcde-f76d-ae3504e7b104",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
     "7123f6ec-fdc5-aaaa-d432-deed6ca6727b": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Source/Material Instances/Dark Metal.mtli.nasset",
@@ -1585,6 +1617,13 @@
         "path": "Assets/Characters/Jimmy/Material Instances/Skin.mtli.nasset",
         "dependencies": [
             "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
+        ]
+    },
+    "7608f4d2-7329-700d-81fd-a73105e64d99": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "path": "Assets/Source/Goal_Flag.scene.nasset/Goal Flag.mesh.nasset/Animations/Take 001.anim.nasset",
+        "dependencies": [
+            "ad39e89d-6ee5-a10b-2d34-d81e433180f1"
         ]
     },
     "766b2edd-aedb-3e56-20c2-530d741b3bb6": {
@@ -2210,6 +2249,21 @@
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
         "path": "Assets/Characters/Jimmy/SK_Jimmy.scene.nasset/SK Jimmy.mesh.nasset/Skeletons/RootNode.skel.nasset"
     },
+    "ac75fbca-ba26-e9c1-f828-4e46ee28b92c": {
+        "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
+        "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+        "path": "Assets/Source/Goal_Flag.scene.nasset/Goal Flag.mesh.nasset/Goal Flag Metal.meshskin.nasset",
+        "dependencies": [
+            "3eba16dd-cc26-a78a-e0cb-038f7442a701",
+            "ad39e89d-6ee5-a10b-2d34-d81e433180f1",
+            "8074f9a7-40ec-c674-aeda-0e4b700d1b90"
+        ]
+    },
+    "ad39e89d-6ee5-a10b-2d34-d81e433180f1": {
+        "assetTypeGuid": "d36708f1-71f9-4334-8146-62c743c39970",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Source/Goal_Flag.scene.nasset/Goal Flag.mesh.nasset/Skeletons/RootNode.skel.nasset"
+    },
     "ad3fa63e-ad77-b8cd-384d-d397c36193e7": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -2732,6 +2786,24 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "dbf29712-18aa-09f5-ccb8-93b83a6cc26e": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/Goal_Flag.scene.nasset/Goal Flag.mesh.nasset/Goal Flag.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "8074f9a7-40ec-c674-aeda-0e4b700d1b90",
+            "3eba16dd-cc26-a78a-e0cb-038f7442a701",
+            "ac75fbca-ba26-e9c1-f828-4e46ee28b92c",
+            "96c90e7e-1110-bcde-f76d-ae3504e7b104",
+            "70aa293d-7508-4117-3889-c0e573d99ef2",
+            "dd26c715-ca7c-0c9b-bbde-8be0523b783f",
+            "e9074cd7-f036-2076-847c-fd4c755ac604",
+            "ad39e89d-6ee5-a10b-2d34-d81e433180f1"
+        ]
+    },
     "dc22d31f-1b47-f995-ce9b-e79c51527a7e": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
@@ -2752,6 +2824,16 @@
         "dependencies": [
             "7e4b831f-28d4-9704-79c3-917a12ed28ca",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "dd26c715-ca7c-0c9b-bbde-8be0523b783f": {
+        "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
+        "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+        "path": "Assets/Source/Goal_Flag.scene.nasset/Goal Flag.mesh.nasset/Goal Flag Flag.meshskin.nasset",
+        "dependencies": [
+            "70aa293d-7508-4117-3889-c0e573d99ef2",
+            "ad39e89d-6ee5-a10b-2d34-d81e433180f1",
+            "96c90e7e-1110-bcde-f76d-ae3504e7b104"
         ]
     },
     "dd83fcfe-c0d2-df6c-5952-5205f37077e9": {
