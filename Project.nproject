@@ -1,7 +1,7 @@
 {
     "name": "Beginner Onboard",
     "guid": "00777605-5828-4d8a-8b7e-d45d8b28f10f",
-	"database_guid": "80d29cbc-f1bd-afe6-5a20-544e53ac7436",
+	"database_guid": "0b20e131-a393-3f4e-0e93-bb8b4dbc524d",
     "version": "1.0.0",
     "engine": "3ff049e0-0880-4898-879d-1ccf5583c9c6",
     "plugins": [
@@ -12,7 +12,7 @@
     "asset_directory": "Assets",
     "binary_directory": "bin",
     "library_directory": "lib",
-    "thumbnail_guid": "dd83fcfe-c0d2-df6c-5952-5205f37077e9",
+    "thumbnail_guid": "a39d686b-c2dc-812a-bb8a-9a4f6e094113",
     "default_scene": "17678dce-9f9f-45ef-a205-c29c808cd1d0",
     "tags": [ "f5777f96-a43c-4ebd-872a-1eeda5719aaf" ],
     "source": "Project.nproject",

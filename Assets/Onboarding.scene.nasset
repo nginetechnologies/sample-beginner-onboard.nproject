@@ -8,9 +8,6 @@
     },
     "data_components": [
         {
-            "typeGuid": "64215a37-64a6-45bd-ba87-10abe74da0f9"
-        },
-        {
             "typeGuid": "05a7011d-a220-49f2-98df-81b32be3c0fd",
             "camera_settings": {
                 "typeGuid": "9ae0e145-86b4-4e47-afda-697bbd008922",
@@ -27,9 +24,9 @@
                     8.2311
                 ],
                 "rotation": [
-                    -45.4544,
-                    -0.0,
-                    -40.9945
+                    -21.0446,
+                    0.0,
+                    52.0344
                 ]
             },
             "grid_settings": {
@@ -42,6 +39,9 @@
                     }
                 }
             }
+        },
+        {
+            "typeGuid": "64215a37-64a6-45bd-ba87-10abe74da0f9"
         }
     ],
     "children": [
@@ -56,7 +56,7 @@
                 ],
                 "rotation": [
                     0.0,
-                    -0.0,
+                    0.0,
                     89.999
                 ]
             },
@@ -86,7 +86,7 @@
                 ],
                 "rotation": [
                     0.0,
-                    -0.0,
+                    0.0,
                     89.999
                 ]
             },
@@ -115,7 +115,7 @@
                 ],
                 "rotation": [
                     0.0,
-                    -0.0,
+                    0.0,
                     89.999
                 ]
             },
@@ -296,8 +296,8 @@
                 ],
                 "rotation": [
                     0.0,
-                    -0.0,
-                    90.0
+                    0.0,
+                    89.9999
                 ]
             },
             "88a0cdbb-2826-46e3-b372-2a5154eacb61": {
@@ -309,14 +309,14 @@
                     "templateInstanceGuid": "d3f8c605-fcfb-7875-d708-d957a810e116"
                 },
                 {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Spawn Point"
+                },
+                {
                     "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905",
                     "mask": [
                         "997e9c4d-d494-4a6e-bb6c-620ced5fabde"
                     ]
-                },
-                {
-                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "Spawn Point"
                 }
             ]
         },
@@ -358,14 +358,14 @@
                     "templateInstanceGuid": "59ee1ac2-c4c3-18c2-32b4-527f2c2e8032"
                 },
                 {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Directional Light"
+                },
+                {
                     "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905",
                     "mask": [
                         "13ca71b8-d868-4f7c-a0bb-c7585db11327"
                     ]
-                },
-                {
-                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "Directional Light"
                 }
             ]
         },
@@ -425,14 +425,14 @@
                     "templateInstanceGuid": "59ee1ac2-c4c3-18c2-32b4-527f2c2e8032"
                 },
                 {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Environment Light"
+                },
+                {
                     "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905",
                     "mask": [
                         "13ca71b8-d868-4f7c-a0bb-c7585db11327"
                     ]
-                },
-                {
-                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "Environment Light"
                 }
             ]
         },
@@ -465,14 +465,14 @@
                     "templateInstanceGuid": "f695b7d2-b906-4085-5b54-71c0ed7599b6"
                 },
                 {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Skysphere"
+                },
+                {
                     "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905",
                     "mask": [
                         "13ca71b8-d868-4f7c-a0bb-c7585db11327"
                     ]
-                },
-                {
-                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "Skysphere"
                 }
             ]
         }
